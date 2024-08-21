@@ -13,5 +13,4 @@ jobs:
       alphas: '["qwerty"]'
       extra: '["colemak"]'
       tap: '["qwerty"]'
-      layers: '["flip"]'
       kconfig: '["CONFIG_ZMK_DISPLAY=y"]'
